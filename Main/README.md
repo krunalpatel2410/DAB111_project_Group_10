@@ -32,13 +32,16 @@ Clone this repository to your local machine.Install the required dependencies us
 **pip install -r requirements.txt**
 
 **Usage**
+
 Once the application is running, you can:
 Explore insights into obesity by navigating to the Data page.
 Learn more about the data source and variable definitions on the About page.
 
 **Data Source**
+
 The obesity-related data used in this project is collected from Kaggle, a platform for datasets and data science projects.
 The dataset includes information on various factors influencing obesity, such as demographics, lifestyle habits, and health indicators.
 
 **Acknowledgments**
+
 Special thanks to Kaggle for providing the obesity dataset used in this project.
