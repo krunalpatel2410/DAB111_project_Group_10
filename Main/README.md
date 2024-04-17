@@ -7,6 +7,14 @@ The web application retrieves obesity-related data from a SQLite database and pr
 
 The Obesity Insights Web Application serves as a valuable resource for understanding the complexities of obesity. By analyzing data collected from Kaggle, the application aims to shed light on various factors influencing obesity rates and provide actionable insights for researchers, healthcare professionals, and policymakers.
 
+**Project Structure**
+The project is structured as follows:
+* Data Collection: Simulated data is collected and stored in a CSV file named customer_data.csv.
+* Database: The data is then stored in a SQLite database named customer_data.db.
+* Website: A Flask-based website is developed to serve the data from the database.
+* README.md: This file provides an overview of the project and instructions on how to set it up.
+* requirements.txt: Lists all the Python packages necessary to run the project.
+
 **Features**
 
 * Data-driven insights into obesity based on the Kaggle dataset.
