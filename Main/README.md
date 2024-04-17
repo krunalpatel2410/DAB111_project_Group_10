@@ -1,4 +1,4 @@
-#**Obesity Insights Web Application**
+**#Obesity Insights Web Application**
 
 This project aims to provide insights into obesity using data collected from Kaggle. 
 The web application retrieves obesity-related data from a SQLite database and presents it in a user-friendly format, allowing users to gain valuable insights into the factors contributing to obesity.
