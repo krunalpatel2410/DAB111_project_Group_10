@@ -13,22 +13,21 @@ The Obesity Insights Web Application serves as a valuable resource for understan
 * Data page displaying the obesity dataset or a sample thereof.
 
 **Requirements**
+
 To run the Obesity Insights Web Application locally, ensure you have the following installed:
-Python 3.x
-Flask
-pandas
-sqlite3
+
+* Python 3.x
+* Flask
+* pandas
+* sqlite3
 
 **Installation**
+
 To set up the project locally, follow these steps:
 
--Clone this repository to your local machine.
--Install the required dependencies using the command:
--Copy code
--pip install -r requirements.txt
--Run the Flask application using the command:
--Copy code
--python app.py
+Clone this repository to your local machine.Install the required dependencies using the command:
+
+**pip install -r requirements.txt**
 
 **Usage**
 Once the application is running, you can:
