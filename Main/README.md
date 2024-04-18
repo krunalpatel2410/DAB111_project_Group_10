@@ -12,7 +12,7 @@ The project is structured as follows:
 * Data Collection: Simulated data is collected and stored in a CSV file named customer_data.csv.
 * Database: The data is then stored in a SQLite database named customer_data.db.
 * Website: A Flask-based website is developed to serve the data from the database.
-* README.md: This file provides an overview of the project and instructions on how to set it up.
+* README.MD: This file provides an overview of the project and instructions on how to set it up.
 * requirements.txt: Lists all the Python packages necessary to run the project.
 
 **Features**
@@ -64,8 +64,13 @@ Learn more about the data source and variable definitions on the About page.
 **Data Source**
 
 The obesity-related data used in this project is collected from Kaggle, a platform for datasets and data science projects.
-The dataset includes information on various factors influencing obesity, such as demographics, lifestyle habits, and health indicators.
+The dataset includes information on the various factors influencing obesity, such as demographics, lifestyle habits, and health indicators.
 
 **Acknowledgments**
 
 Special thanks to Kaggle for providing the obesity dataset used in this project.
+
+**contribution**
+Krunal V Patel - W856326
+Darshan Mangukia -W0857413
+Gaurav -W0850307
