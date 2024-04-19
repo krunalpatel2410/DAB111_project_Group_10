@@ -28,5 +28,9 @@ def data():
 
     return render_template("data_table.html",Obesity=Obesity_data )
 
+@app.route("/report")
+def report():
+    return render_template("report.html")
+
 if __name__=="__main__":
     app.run(debug=True)
