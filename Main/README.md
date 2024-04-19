@@ -9,8 +9,8 @@ The Obesity Insights Web Application serves as a valuable resource for understan
 
 **Project Structure**
 The project is structured as follows:
-* Data Collection: Simulated data is collected and stored in a CSV file named customer_data.csv.
-* Database: The data is then stored in a SQLite database named customer_data.db.
+* Data Collection: Simulated data is collected and stored in a CSV file named Obesity.csv.
+* Database: The data is then stored in an SQLite database named Obesitya.db.
 * Website: A Flask-based website is developed to serve the data from the database.
 * README.MD: This file provides an overview of the project and instructions on how to set it up.
 * requirements.txt: Lists all the Python packages necessary to run the project.
@@ -49,7 +49,7 @@ Prerequisites
 In the website.py file, locate the database configuration section. By default, it may look like this:
 **'C:\Users\sonup\Documents\GitHub\DAB111_project_Group_10\Main\database'**
 
-* Change 'path/to/your/database.db' to the desired path where you want to store your database file. For example: **DATABASE_PATH = 'data/obesity_data.db'**
+* Change 'path/to/your/database.db' to the desired path where you want to store your database file. For example: **DATABASE_PATH = 'data/obesity.db'**
 
 4. Run the application
 **website.py**
